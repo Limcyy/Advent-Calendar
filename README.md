@@ -1,6 +1,6 @@
   FUN ADVENT CALENDAR GAMES, 5 DAYS TILL CHRISTMAS.
 This is my first HTML, CSS ,JS project i have ever done.
-    Basicaly a combination of my first finished codes. 
+    Basically a combination of my first finished codes. 
      Keep in mind these were my first codes
             so they look really bad.
 
