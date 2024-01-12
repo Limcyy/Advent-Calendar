@@ -21,49 +21,49 @@ function powerclick () {
 
     if (powerCount < 10){
     power.innerHTML = powerCount + ' cookies, next present at 10 cookies'
-    coolImage.src="https://i0.wp.com/outliermedia.org/wp-content/uploads/2020/07/mariners-1.jpg?fit=1000%2C1333&ssl=1"
+    coolImage.src="/images/trash.webp"
     
     }
     else if (powerCount < 20){
     power.innerHTML = powerCount + ' cookies, next present at 20 cookies'
-    coolImage.src="https://www.dvd-premiery.cz/data/imgauto/9/0/100378.jpg"
+    coolImage.src="/images/cars.jpg"
     }
     else if (powerCount < 50){
         power.innerHTML = powerCount + ' cookies, next present at 50 cookies'
-        coolImage.src="https://m.media-amazon.com/images/I/61rDctkPw6L.jpg"
+        coolImage.src="/images/phone.jpg"
         }
     else if (powerCount < 100){
             power.innerHTML = powerCount + ' cookies, next present at 100 cookies'
-            coolImage.src="https://wccftech.com/wp-content/uploads/2022/11/ps5-credit-sie@2000x1270.jpg"
+            coolImage.src="/images/ps5.jpg"
             }
      else if (powerCount < 150){
                 power.innerHTML = powerCount + ' cookies, next present at 150 cookies'
-                coolImage.src="https://i.pinimg.com/originals/a9/4b/43/a94b430bfe62460bd537c842152ae563.jpg"
+                coolImage.src="/images/suprsetup.jpg"
                 upgradex.style.backgroundColor = "#15b63d"
                 upgradex.innerHTML = "upgrade"
                 }
      else if (powerCount < 200){
                     power.innerHTML = powerCount + ' cookies, next present at 200 cookies'
-                    coolImage.src="https://images.prismic.io/carwow/c340a77d-af56-4562-abfb-bd5518ccb292_2023+Tesla+Model+X+front+quarter+moving.jpg"
+                    coolImage.src="/images/tesla.jpg"
                     upgradex.style.backgroundColor = "#15b63d"
                     upgradex.innerHTML = "upgrade"
                     }
      else if (powerCount < 500){
                         power.innerHTML = powerCount + ' cookies, next present at 500 cookies'
-                        coolImage.src="https://assets-news.housing.com/news/wp-content/uploads/2022/01/10145854/most-beautiful-houses2.png"
+                        coolImage.src="/images/house.png"
                         upgradex.style.backgroundColor = "#15b63d"
                         upgradex.innerHTML = "upgrade"
                         }
                         
      else if (powerCount < 1000){
                             power.innerHTML = powerCount + ' cookies, next present at 1000 cookies'
-                            coolImage.src="https://images.squarespace-cdn.com/content/v1/5aee3c452487fd040c444dc8/1664305740221-Y1TLKFW0PZAKITBIM09O/Global+8000+ext.jpg"
+                            coolImage.src="/images/plane.jpg"
                             upgradex.style.backgroundColor = "#15b63d"
                             upgradex.innerHTML = "upgrade"
                             }
       else {
                                 power.innerHTML = powerCount + ' cookies, you reached the final present'
-                                coolImage.src="https://www.iccsafe.org/wp-content/uploads/bsj/GettyImages-183346577-scaled.jpg" 
+                                coolImage.src="/images/burj khal.jpg" 
                                 upgradex.style.backgroundColor = "#15b63d"
                                 upgradex.innerHTML = "upgrade"
                             }
