@@ -10,7 +10,7 @@ function rizzScale() {
   let OutpuMesssage = (playerName)
 
   if (Zcale < 20){
-    OutpuMesssage = 'you are not a good boy/girl D:'
+    OutpuMesssage = 'you are NOT a good boy/girl D:'
     santasImega.src="images/angr santa.jpg"
   }
   else if (Zcale < 40){
