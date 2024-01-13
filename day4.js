@@ -8,10 +8,10 @@ function santaThingz() {
   const santasGuess = Math.ceil(Math.random()*5);
   if (santasGuess == guess) {
     p.innerHTML = 'RIGHT, santa was in fact thinking about number ' + santasGuess + '!!'
-    santasImega.src = '/images/verry happy santa.avif'
+    santasImega.src = './images/verry happy santa.avif'
   } else {
     p.innerHTML = 'WRONG, santa was thinking about number ' +  santasGuess + '!!'
-    santasImega.src = "/images/verry angry santa.jpg"
+    santasImega.src = "./images/verry angry santa.jpg"
 
   }
 } 
