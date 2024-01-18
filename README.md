@@ -1,11 +1,14 @@
 https://limcyy.github.io/Advent-Calendar/
   
-  
-  FUN ADVENT CALENDAR GAMES, 5 DAYS TILL CHRISTMAS.
+FUN ADVENT CALENDAR GAMES, 5 DAYS TILL CHRISTMAS.
+
 This is my first HTML, CSS ,JS project i have ever done.
-    Basically a combination of my first finished codes. 
-     Keep in mind these were my first codes
-            so they look really bad. NOT PHONE FRIENDLY.
+
+Basically a combination of my first finished codes.
+
+Keep in mind these were my first codes so they look really bad.
+
+NOT phone friendly.
 
 
 ![advent calendar](https://github.com/Limcyy/Adven-Calendar/assets/150164805/2bb74adf-1258-4590-a8da-4e50bea51c3e)
