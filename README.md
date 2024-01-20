@@ -11,5 +11,7 @@ Keep in mind these were my first codes so they look really bad.
 NOT phone friendly.
 
 
-https://github.com/Limcyy/Advent-Calendar/assets/150164805/135b492d-aca7-4ad6-940c-131450fd79a8
+
+https://github.com/Limcyy/Advent-Calendar/assets/150164805/b406c382-ec6c-4722-b289-8d626e774b1d
+
 
